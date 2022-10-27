@@ -1,4 +1,4 @@
-import {add, divide, multiply, subtract} from './mathFunctions'
+import { add, divide, multiply, subtract } from "./mathFunctions";
 
 describe("add tests", () => {
   it("2+2 should equal 4", () => {
